@@ -12,3 +12,19 @@ WK1-
 - Project Assignment Overview
 - BASH Commands 101
 - Installing Course Dependencies
+
+Wk2-
+- Version Control Systems
+- Utilization of VCS
+- VCS Terminology
+- Role of VCS in build pipelines
+- CVCS vs DVCS
+- GitHub Overview
+- More BASH commands and
+shell script
+- Asymmetric crypto, SSH and
+Access token
+- CLI Text Editors
+- Configuring your local
+environment for VCS
+o GitHub Desktop
