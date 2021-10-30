@@ -1,1 +1,4 @@
-
+COMP 3104 is the best course ever led by our Prof Pritesh Patel.
+One of the tools we’ll be looking at and using quite closely is BASH (Bourne Again Shell). 
+We’ll learn what bash is, why it’s used, some foundational knowledge to properly navigate through bash and some tricks of the trades 
+to help us become power users. We’ll be looking at some common bash syntax and statements, along with their intention!!!
