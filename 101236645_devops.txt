@@ -28,3 +28,16 @@ Access token
 - Configuring your local
 environment for VCS
 o GitHub Desktop
+
+Wk3-
+Leveraging VCS for DevOps
+- Application Architectures, then
+& now
+- Monolith vs Microservice
+architecture
+- Vertical & horizontal scaling
+- Tech stack behind reliable
+applications
+- Remote VCS repositories
+- Creating remote repositories
+- Git CLI
