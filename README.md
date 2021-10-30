@@ -9,3 +9,6 @@ Yukina updated and finished editing text files - Oct 30 5:05 PM
 Yukina moved README updates from main to my branch - Oct 30 5:10 PM
 
 Yukina completed 10 commits - Oct 30 5:12 PM
+
+(UPCOMING) Yukina merged branch to main 
+
