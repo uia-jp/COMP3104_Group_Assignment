@@ -4,9 +4,9 @@ COURSE NAME: DevOps
 COURSE CODE: COMP3104
 
 COMP 3104 DevOps is one of the courses in T127 program at George brown college center for arts, design & information technology.
-This course is designed to better prepare professionals entering the IT field(Specifically, a field where servers, web apps and infrastructure
- will be core to business needs.), and students will be provided a hands-on experience through the implementation of tried, tested and 
- true DevOps technologies!
+This course is designed to better prepare professionals entering the IT field(Specifically, a field where servers, web apps and 
+infrastructure will be core to business needs.), and students will be provided a hands-on experience through the implementation 
+of tried, tested and true DevOps technologies!
 
 Evaluation System for Fall 2021 Academic year of 2021 - 2022:
 - Mid term Exam 20%
