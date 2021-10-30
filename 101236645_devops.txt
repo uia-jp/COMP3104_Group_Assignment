@@ -41,3 +41,25 @@ applications
 - Remote VCS repositories
 - Creating remote repositories
 - Git CLI
+
+Wk4-
+DevOps roles & responsibilities
+- Tools & techniques in the
+DevOps sphere
+- DevOps culture and lifecycle
+- Core DevOps principles
+- Career opportunities in DevOps
+- Demand & compensation for
+engineers
+- VCS workflows
+- Working with Travis for CI
+- Configuring Travis
+Lab, Lecture,
+&
+Supplementary
+Material
+COURSE NAME: DevOps PAGE: 3
+COURSE CODE: COMP3104
+- Generating test scripts
+- GitHub & Travis
+communications
