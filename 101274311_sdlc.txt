@@ -1,7 +1,10 @@
 ----- About important of learning DevOps engineer in software development cycle -----
 
 DevOps gives organizations a competitive advantage by enabling them to improve and create products faster. 
-Collaboration supports operations and development, reducing implementation failures, shortening development cycles, and improving internal communication.
-DevOps allows teams to track the entire deployment cycle, from writing and testing code to integration, containerization, and delivery. You can use DevOps to get the big picture.
-DevOps Team Problem Solving and Corporate Culture Learning A unified approach to DevOps team communication skills and agile methods allows developers to better communicate
- with non-development team members such as designers and marketers. increase. These skills can make you a more desirable employee!
+Collaboration supports operations and development, reducing implementation failures, shortening development 
+cycles, and improving internal communication.
+DevOps allows teams to track the entire deployment cycle, from writing and testing code to integration, 
+containerization, and delivery. You can use DevOps to get the big picture.
+DevOps Team Problem Solving and Corporate Culture Learning A unified approach to DevOps team communication 
+skills and agile methods allows developers to better communicate with non-development team members such as 
+designers and marketers. increase. These skills can make you a more desirable employee!
