@@ -10,6 +10,6 @@ Yukina moved README updates from main to my branch - Oct 30 5:10 PM
 
 Yukina completed 10 commits - Oct 30 5:12 PM
 
-(UPCOMING) Yukina merge branch to main 
+Yukina merged my branch to main - Oct 31 12:05 PM
 
-(UPCOMING) Yukina Done.
+Yukina Done.
