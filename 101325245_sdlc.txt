@@ -1,0 +1,5 @@
+						Software Development Life Cycle
+
+In software development, information systems and software engineering, the software development life cycle,
+also referred to as the application development life-cycle, is a process for planning, creating, testing, and
+deploying an information system.
