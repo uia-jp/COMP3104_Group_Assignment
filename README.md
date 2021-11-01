@@ -41,3 +41,4 @@ Robertha is all done WHOOO! -Oct 30 5:02 PM
 
 
 Paolo cloned the Project to a local repository.
+Paolo created the text files and committed empty text files to begin with.
