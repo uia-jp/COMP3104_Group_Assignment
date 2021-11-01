@@ -1,0 +1,65 @@
+COMP 3104 is the best course ever led by our Prof Pritesh Patel.
+One of the tools we’ll be looking at and using quite closely is BASH (Bourne Again Shell). 
+We’ll learn what bash is, why it’s used, some foundational knowledge to properly navigate through bash and some tricks of the trades 
+to help us become power users. We’ll be looking at some common bash syntax and statements, along with their intention!!!
+
+
+WK1- 
+- Why DevOps?
+- Future of DevOps
+- What is a build pipeline?
+- Introduction to course material
+- Project Assignment Overview
+- BASH Commands 101
+- Installing Course Dependencies
+
+Wk2-
+- Version Control Systems
+- Utilization of VCS
+- VCS Terminology
+- Role of VCS in build pipelines
+- CVCS vs DVCS
+- GitHub Overview
+- More BASH commands and
+shell script
+- Asymmetric crypto, SSH and
+Access token
+- CLI Text Editors
+- Configuring your local
+environment for VCS
+o GitHub Desktop
+
+Wk3-
+Leveraging VCS for DevOps
+- Application Architectures, then
+& now
+- Monolith vs Microservice
+architecture
+- Vertical & horizontal scaling
+- Tech stack behind reliable
+applications
+- Remote VCS repositories
+- Creating remote repositories
+- Git CLI
+
+Wk4-
+DevOps roles & responsibilities
+- Tools & techniques in the
+DevOps sphere
+- DevOps culture and lifecycle
+- Core DevOps principles
+- Career opportunities in DevOps
+- Demand & compensation for
+engineers
+- VCS workflows
+- Working with Travis for CI
+- Configuring Travis
+Lab, Lecture,
+&
+Supplementary
+Material
+COURSE NAME: DevOps PAGE: 3
+COURSE CODE: COMP3104
+- Generating test scripts
+- GitHub & Travis
+communications

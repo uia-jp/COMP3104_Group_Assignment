@@ -1,0 +1,9 @@
+DevOps was first was also called “agile infrastructure” or “agile operations”; it came from
+applying Agile and Lean approaches to operations type of work. It brings together development and operations teams so
+there are fewer redundancies in the softwaredevelopment process.
+
+DevOps engineer introduces processes, tools, and methodologies to balance needs throughout the software development life cycle, from coding and deployment, to maintenance and updates. 
+
+The term “DevOps” is another example: It merges the words “development” and “operations.”
+
+DevOps engineers need to be able to multitask, demonstrate flexibility, and deal with many different situations at a time.
