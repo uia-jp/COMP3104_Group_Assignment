@@ -37,3 +37,11 @@ Robertha is now creating commits on her sdlc.txt file! -Oct 30 4:57 PM
 
 Robertha is all done WHOOO! -Oct 30 5:02 PM
 >>>>>>> 101236645-Robertha
+
+
+
+Paolo cloned the Project to a local repository.   NOV 1 11:40 AM
+Paolo created the text files and committed empty text files to begin with.  NOV 1 11:45 AM
+Paolo updated the text files and re-committed themm.  NOV 1 11:50 AM 
+Paolo done.  NOV 1 11:50 AM
+
